@@ -1,6 +1,6 @@
 # Hi, I'm Amr Bedawy 👋
 
-Full-Stack Developer focused on building backend systems with Node.js, Express, and MySQL.
+Full-Stack Developer focused on building backend systems with Node.js, Express, and MySQL, along with Python, HTML, and CSS.
 
 ## About Me
 
@@ -10,8 +10,9 @@ Full-Stack Developer focused on building backend systems with Node.js, Express, 
 
 ## Skills
 
-- **Languages:** JavaScript
+- **Languages:** JavaScript, Python
 - **Backend:** Node.js, Express
+- **Frontend:** HTML, CSS
 - **Databases:** MySQL
 - **Tools:** JWT, bcrypt, Stripe, Git, GitHub
 
